@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Adrian\Documents\CPA\adt74\CPA\CPA\bin\Debug\CPA.exe.config
 C:\Users\Ciprian\Desktop\adt74\CPA\CPA\bin\Debug\CPA.exe.config
 C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\bin\Debug\CPA.exe.config
@@ -10,3 +11,15 @@ C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.Properties.Resources.
 C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.csproj.GenerateResource.Cache
 C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.exe
 C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.pdb
+=======
+C:\Users\Adrian\Documents\CPA\adt74\CPA\CPA\bin\Debug\CPA.exe.config
+C:\Users\Ciprian\Desktop\adt74\CPA\CPA\bin\Debug\CPA.exe.config
+C:\Users\Ciprian\Desktop\adt74\CPA\CPA\bin\Debug\CPA.exe
+C:\Users\Ciprian\Desktop\adt74\CPA\CPA\bin\Debug\CPA.pdb
+C:\Users\Ciprian\Desktop\adt74\CPA\CPA\obj\Debug\CPA.csprojResolveAssemblyReference.cache
+C:\Users\Ciprian\Desktop\adt74\CPA\CPA\obj\Debug\CPA.Form1.resources
+C:\Users\Ciprian\Desktop\adt74\CPA\CPA\obj\Debug\CPA.Properties.Resources.resources
+C:\Users\Ciprian\Desktop\adt74\CPA\CPA\obj\Debug\CPA.csproj.GenerateResource.Cache
+C:\Users\Ciprian\Desktop\adt74\CPA\CPA\obj\Debug\CPA.exe
+C:\Users\Ciprian\Desktop\adt74\CPA\CPA\obj\Debug\CPA.pdb
+>>>>>>> 2abbec4770b80610d9eef1e8450865f4d51a7472
