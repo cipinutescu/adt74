@@ -1,2 +1,12 @@
 C:\Users\Adrian\Documents\CPA\adt74\CPA\CPA\bin\Debug\CPA.exe.config
 C:\Users\Ciprian\Desktop\adt74\CPA\CPA\bin\Debug\CPA.exe.config
+C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\bin\Debug\CPA.exe.config
+C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\bin\Debug\CPA.exe
+C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\bin\Debug\CPA.pdb
+C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.csprojResolveAssemblyReference.cache
+C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.Calendar.resources
+C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.Form1.resources
+C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.Properties.Resources.resources
+C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.csproj.GenerateResource.Cache
+C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.exe
+C:\Users\Cristi\Desktop\EESTEC\adt74\CPA\CPA\obj\Debug\CPA.pdb
